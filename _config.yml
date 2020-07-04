@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.wesleyq.me/
-title: Wesley W. Q.
-email: wesley.chin0919@gmail.com
-author: Wesley Wei Qian
-description: > # "Wesley Wei Qian's Personal Page"
+url: http://github.com/XijiaoLi/
+title: Xijiao
+email: xl2950@columbia.edu
+author: Xijiao Li
+description: > # "Xijiao's Personal Page"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,16 +26,16 @@ gems:
 social:
   - icon: medium
     title: blog
-    url: https://medium.com/thoughts-and-notes
+    url: https://medium.com/@xijiaoli
   - icon: envelope-o
     title: email
-    url: mailto:wesley.chin0919@gmail.com
+    url: mailto:xl2950@columbia.edu
   - icon: github
     title: github
-    url: https://github.com/WesleyyC
+    url: https://github.com/XijiaoLi
   - icon: linkedin
     title: linkedin
-    url: https://www.linkedin.com/in/wesleychin0919
+    url: https://www.linkedin.com/in/xijiao-li/
   - icon: file-pdf-o
     title: resume
-    url: http://www.wesleyq.me/rsc/resume.pdf
+    url: https://www.linkedin.com/in/xijiao-li/
