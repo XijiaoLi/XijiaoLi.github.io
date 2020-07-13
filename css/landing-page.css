@@ -25,6 +25,10 @@ h6 {
     font-weight: 700;
 }
 
+p.small-fa {
+  font-size: 12.5px;
+}
+
 .alt-font {font-family: 'Quicksand', sans-serif !important;}
 
 .lead {
