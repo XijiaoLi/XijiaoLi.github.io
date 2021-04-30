@@ -1,0 +1,17 @@
+---
+img: PreVeil.png
+category: Experiences
+title: Software Engineering Intern
+description: Docker, AWS S3/EC2, Elixir, Shell, Erlang, Shell, Python, YAML, HTML, CSS
+time: May 2020 - present | Boston, MA
+---
+
+* Worked in the Backend Team & Infrastructure Team at PreVeil.
+
+* Updated the server side logging service by creating a custom logger module that extracts ECS fields and logs in JSON format; worked with the infrastructure team to improve log management by upgrading the classic ELK log architecture and integrating AWS CloudWatch/SNS/Chatbot with the existing data pipelines.
+
+* Migrated the existing email server to Amazon SES to better monitor the bounces and complaints; created email templates using Embedded Elixir to avoid redundant parts of outbound messages.
+
+* Improved RESTful API behavior for client usage; used Unit Testing Framework to formalize requirements, test code, optimize programs, and debug errors.
+
+* Worked with Security Team to design and implement new innovative cryptographic algorithms to address challenges for a wide range of aspects such as secure messaging, device pairing, and cloud data privacy.
