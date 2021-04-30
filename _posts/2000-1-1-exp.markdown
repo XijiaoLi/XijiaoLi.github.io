@@ -1,0 +1,21 @@
+---
+layout: default
+img: 1-1-1-exp.jpg
+category: Experiences
+title: CRIS Lab | Research Intern
+description: |
+---
+
+* Worked on various research topics in bioinformatics and computational chemistry using a data
+driven neural network approach with Prof. Jian Peng
+
+* Research topics include protein sequence profiling, protein structure contact prediction, and graph
+based neural network for molecule property prediction and model interpretability
+
+*  Aug. 2019 - present | Columbia University, New York, NY
+
+* Worked on various topics in social dynamics using simulation with Prof.Venkat.
+
+* Research topics include income inequality, soft regulation with crowd recommendation, and particle swarm optimization with dynamic topology;
+
+* Effectively turned research papers into working code in Python and Java .
